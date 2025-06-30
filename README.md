@@ -1,9 +1,16 @@
 
-# 🖥️ Operating System Lab Programs – GITAM University (2025 Batch)
+# 🖥️ Operating Systems Lab Programs – GITAM University
 
 ## 📚 About
 
 This repository contains **C programs** implementing core **Operating System concepts and algorithms**, suitable for lab work, projects, and exam preparation.
+
+---
+
+## 👨‍🏫 Faculty Reference
+
+This repository was created as part of the **Operating Systems Lab (Semester 4)** under the guidance of [**Dr. Pujasuman Tripathy**](https://www.linkedin.com/in/pujasuman-tripathy-221888b6/), Faculty at **GITAM University**.
+
 
 ---
 
